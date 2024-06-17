@@ -16,19 +16,19 @@ title: Strathcona School
 
 **Website**: <https://strathcona.epsb.ca/>
 
-**Student Count**: TODO
+**Student Count**: 1717
 
 **School's overall airborne virus protection grade (0-5)**: 1
 
-**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: nil
 
 **School's policy on Ventilation**: <https://epsb.ca/news/schools/improvementstoschoolventilation.html>
 
-**School's Ventilation Work Completion**: TODO
+**School's Ventilation Work Completion**: https://files.epsb.ca/ventilation/054.pdf
 
-**School's Air-Purification**: TODO
+**School's Air-Purification**: 61 Hepa units
 
-**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+**School's CO2 monitoring to actively drive ventilation and filtration**: nil
 
 **School's Wikidata URL**: TODO
 
